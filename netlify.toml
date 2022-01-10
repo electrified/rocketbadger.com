@@ -1,6 +1,6 @@
 [build]
-  publish = "rocketbadger.com/public"
-  command = "cd rocketbadger.com && hugo --themesDir ../.."
+  publish = "public"
+  command = "hugo"
 
 [build.environment]
   HUGO_VERSION = "0.82.0"

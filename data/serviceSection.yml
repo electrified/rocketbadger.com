@@ -1,0 +1,28 @@
+---
+enable: true
+topTitle: What we're good at
+title: >
+  ## Services
+
+  Based in Sheffield, England we are skilled in the following areas
+service:
+  - content: >
+      #### Agile Software Development
+
+      Development of software using Java, Kotlin, Typescript
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Devops
+
+      Infrastructure as code, CI/CD, Containers, Kubernetes
+    image: images/service/web.svg
+  - content: >
+      #### Cloud technologies
+
+      AWS, Azure, GCP
+    image: images/service/creative.svg
+  - content: >
+      #### IOT/ Hardware Development
+
+      PCB design with KiCad, microcontroller firmware development
+    image: images/service/branding.svg
