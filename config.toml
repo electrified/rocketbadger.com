@@ -54,7 +54,7 @@ weight = 3
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All rights reserved © Rocket Badger Technology Ltd 2022"
+copyright = "All rights reserved © Rocket Badger Technology Ltd 2022-2025"
 vatNumber = "400004487"
 registrationNumber = "13835178"
 footerLogo = "images/contact/widget-logo.png"
